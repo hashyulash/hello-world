@@ -875,7 +875,6 @@ const translations = {
 
       meta: {
         homepage: {
-          complement: "Book a car service",
           complement: "Бронирование автосервиса",
           description: "Забронируй автосервис, получи предложение и сравни цены легко и без проблем(без обязательств)",
           book_aservice: "Бронирование",
