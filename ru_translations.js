@@ -876,15 +876,16 @@ const translations = {
       meta: {
         homepage: {
           complement: "Book a car service",
-          description: "Book a car service, receive a tender and compare service prices easily and without commitment.",
-          book_aservice: "Book",
-          for_car_services: "For car services",
+          complement: "Бронирование автосервиса",
+          description: "Забронируй автосервис, получи предложение и сравни цены легко и без проблем(без обязательств)",
+          book_aservice: "Бронирование",
+          for_car_services: "Для владельцев автомастерских",
           faq: "FAQ",
-          contact: "Contact",
-          login: "Log in",
-          signup: "Sign up",
-          terms: "Terms and Conditions",
-          dashboard: "Dashboard"
+          contact: "Контакты",
+          login: "Войти",
+          signup: "Зарегистрироваться",
+          terms: "Положения и условия",
+          dashboard: "Панель инструментов"
         }
       },
       /*********************************************
@@ -892,55 +893,55 @@ const translations = {
       *********************************************/
       homepage: {
         navbar: {
-            for_car_services: "For car services",
+            for_car_services: "Для владельцев автомастерских",
             faq: "FAQ",
-            contact: "Contact",
-            my_account: "My Account",
-            bookService: "Book a car service",
-            home: "Home",
+            contact: "Контакты",
+            my_account: "Мой аккаунт",
+            bookService: "Выбери автомастерскую",
+            home: "Главная страница???(Home)",
             user: {
-              dashboard: "My dashboard",
-              search: "Search car services",
-              vehicles: "Vehicles",
-              settings: "Settings",
-              logout: "Log out"
+              dashboard: "Панель инструментов",
+              search: "Поиск автомастерских",
+              vehicles: "Машины",
+              settings: "Настройки",
+              logout: "Выход"
             },
             company: {
-              dashboard: "My dashboard",
-              billing: "Billing",
-              feedback: "Feedback",
-              settings: "Settings",
+              dashboard: "Панель инструментов",
+              billing: "Счета",
+              feedback: "Обратная связь",
+              settings: "Настройки",
             },
         },
         hero: {
-            title: "Book a car service",
-            text: "Book a car service, receive a tender and compare service prices easily and without commitment.",
-            book_btn: "Book a service",
-            register_btn: "Create an account"
+            title: "Поиск автомастерской",
+            text: "Забронируй автосервис, получи предложение и сравни цены легко и без проблем(без обязательств)",
+            book_btn: "Бронирование",
+            register_btn: "Создать аккаунт"
         },
         how_we_work: {
-            title: "How we work",
-            text: "Choose your location and service your car needs. We will take care of the rest and tender your car service. We will show you multiple service offers within your preferred radius and time schedule. Compare the prices and then choose the repair offer which suites your needs – simple! We want to deliver you the best service prices in your in area. No more hassle with phone calls or emails to the repair shops. Start now and discover the new era of car service!",
-            button: "Book a service"
+            title: "Как мы работаем",
+            text: "Укажите ваше местоположение и необходимый ремонт(какой?) автомобиля. Мы позаботимся об остальном и предложим возможные автомастерские. Мы покажем вам несколько предложений по услугам в пределах вашего предпочтительного радиуса и расписания. Сравните цены и выберите предложение по ремонту, которое соответствует вашим потребностям. Это просто! Мы хотим предоставить вам лучшие цены на услуги в вашем районе. Больше никаких хлопот с телефонными звонками или электронными письмами в ремонтные мастерские. Начните сейчас и откройте новую эру автосервиса!",
+            button: "Найти автомастерскую"
         },
         partner: {
-          title: "Become our partner and reach a larger client base through Autofi",
-          text: "Join our platform and reach a larger client base. Free your time from your work schedule and receive multiple service requests through us. You can easily choose on which service to bid. By offering a good price for the car owners, you can multiply your service traffic. No need to market your repair shop individually – we take care of everything. Just relax and service your clients.",
-          btn_readmore: 'Read more',
-          btn_register: 'Register'
+          title: "Становись нашим партнером и увеличивай клиентскую базу с Autofi",
+          text: "Присоединяйся к нашей платформе и увеличивай клиентскую базу . Освободите время из вашего расписания работы и получите через нас несколько запросов на обслуживание. Вы можете легко выбрать, какую услугу предлагать на торгах. Предлагая выгодную цену для владельцев автомобилей, вы можете увеличить поток клиентов. Нет необходимости самостоятельно предлагать услуги - мы позаботимся обо всем. Просто расслабьтесь и обслуживайте своих клиентов",
+          btn_readmore: 'Узнать больше',
+          btn_register: 'Регистрация'
         },
         perks: {
           perk1: {
-            title: "Save time and money",
-            text: "Your time is valuable. Receive a tender offer and compare prices. Save time and money."
+            title: "Сохраните ваши время и деньги",
+            text: "Ваше время - ценный ресурс. Получите предложения и сравните цены. Экономьте время и деньги
           },
           perk2: {
-            title: "Free",
-            text: "Booking the service is always free for you. Without commitments."
+            title: "Бесплатно",
+            text: "Выбор автомастерских всегда бесплатен для вас. Без обязательств."
           },
           perk3: {
-            title: "Safe and easy",
-            text: "Our service partners are committed for your car's well-being. Get up to 2 years warranty for work and parts."
+            title: "Легко и безопасно",
+            text: "Наши партнеры - автомастерские взяли на себя обязательство благополучия вашего автомобиля. Получите до двух лет гарантии на ремонт автомобиля и детали."
           }
         }
       },
@@ -950,26 +951,26 @@ const translations = {
       *********************************************/
 
       faq: {
-        search_title: "Search articles",
-        search_input: "Search",
-        gettingStarted: "Getting started",
-        carOwners: "Autofi for car owners",
-        carServices: "Autofi for services",
-        recent: "Recent activity",
-        found_articles: "Found articles",
-        seeMore: "See more",
-        guide: "Autofi guide",
-        articles: "Articles in this section",
-        feedbackTitle: "Was this article helpful?",
-        yes: "Yes",
-        no: "No",
-        moreQuestions: "Have more questions?",
+        search_title: "Искать статьи",
+        search_input: "Поиск",
+        gettingStarted: "Начало работы",
+        carOwners: "Autofi для владельцев автомобилей",
+        carServices: "Autofi для автомастерских",
+        recent: "Недавняя активность",
+        found_articles: "Создать статью",
+        seeMore: "Увидеть больше",
+        guide: "Autofi руководство",
+        articles: "Статьи этой секции",
+        feedbackTitle: "Эта статья была полезной?",
+        yes: "Да",
+        no: "Нет",
+        moreQuestions: "Остались вопросы?",
         submitRequest: {
-          title: "Submit a request",
-          requiedFields: "Please note: all fields are required ",
+          title: "Отправить запрос",
+          requiedFields: "Пожалуйста, обратите внимание: все поля обязательны для заполнения ",
           email: "Email *",
           why_select:  {
-              title: "Why are you writing to us? *",
+              title: "Почему вы пишете нам? *",
               options: [
                 { text: 'Select an option', value: '' },
                 { text: 'I would like to report a bug', value: 'bug' },
@@ -1008,58 +1009,58 @@ const translations = {
 
       forCarServices: {
         hero: {
-          title: "Autofi takes you to the future",
-          text: "We are the future of car services. We help you to gain a larger client pool through tendering and online booking. The right price, quality of service and schedule are the main factors when choosing a repair shop. We want to help you gain these benefits. Our platform is designed for you and is easy to use.",
-          btn_register: "Register",
-          btn_login: "Log in"
+          title: "Autofi перенесет вам в будущее",
+          text: "Мы - будущее услуг по ремонту автомобиля. Мы помогаем вам получить больший поток клиентов путем проведения торгов и онлайн-бронирования. Правильная цена, качество обслуживания и расписание являются основными факторами при выборе автомастерской. Мы хотим помочь вам получить эти преимущества. Наша платформа разработана для вас и проста в использовании ",
+          btn_register: "Зарегистрироваться",
+          btn_login: "Войти"
         },
         carServiceInfo: {
-          title: "Autofi works for every service",
-          text: "Whether you are a one-man repair shop or a big player on the market, make your life easier and increase your customer flow and revenue through us. Thanks to our search engine optimized front page visibility you will reach your clients cheaper than with other channels. We offer you a complete platform to reach all the clients in your region. Click, bid and win. ",
+          title: "Autofi работает для каждой автомастерской",
+          text: "Независимо от того, являетесь ли вы небольшой автомастерской или крупным игроком на рынке, сделайте свою жизнь проще и увеличивайте поток клиентов и доходы через нас. Благодаря нашей оптимизированной поисковой системе видимости, на первой странице вы сможете найти клиентов проще, по сравнению с другими ресурсами. Мы предлагаем вам полную платформу для охвата всех клиентов в вашем регионе. Нажмите, предложите и выиграйте.",
           perks: {
             perk1: {
-              title: "Online booking",
-              text: "Your clients are online – be there with them. Let them make their reservations there easily."
+              title: "Онлайн поиск",
+              text: "Ваши клиенты здесь - будьте здесь с ними. Помогите им упростить задачу выбора.",
             },
             perk2: {
-              title: "Increase your sales",
-              text: "Fill empty times in your schedule and grab the extra revenue. Use more of your resources to serve your clients and less on advertising. Save money and time.",
+              title: "Повысьте ваши продажи",
+              text: "Заполните пустое время в своем расписании и получите дополнительный доход. Используйте больше своих ресурсов для обслуживания своих клиентов и меньше -  для рекламы. Экономьте ваши деньги и время.",
             },
             perk3: {
-              title: "Access your clients",
-              text: "The platform is a powerful tool to leave service offers to clients. Manage all your offers and inquiries through us. Less hassle and direct customer contacts. "
+              title: "Доступ к вашим клиентам",
+              text: "Наша платформа - это мощный инструмент для предоставления сервисных предложений клиентам. Управляйте всеми своими предложениями и запросами через нас. Меньше хлопот и прямых контактов с клиентами. "
             },
             perk4: {
-              title: "Be successful",
-              text: "Stand out from the crowd. Show your strengths to the client. You don’t need to be cheapest to win the bids."
+              title: "Будьте успешными",
+              text: "Выделитесь из толпы. Покажите свои преимущества клиенту. Вам не нужно предлагатьсамую дешевую цену, чтобы выиграть ставки."
             }
           }
         },
         reasons: {
-          title: "Reasons to love AUTOFI",
-          reason1: "Grow your client base",
-          reason2: "Lower your marketing costs",
-          reason3: "Fill the empty spaces in your calendar",
-          reason4: "Be ahead of your competitors",
-          reason5: "Bring your service into the digital age",
-          btn_presentation: 'Ask for presentation'
+          title: "Причины любить AUTOFI",
+          reason1: "Рост клиентской базы",
+          reason2: "Уменьшение затрат на маркетинг",
+          reason3: "Заполнение пустых мест в вашем расписании",
+          reason4: "Будьте впереди ваших конкурентов",
+          reason5: "Перенесите ваш бизнес в век технологий",
+          btn_presentation: 'Ask for presentation????'
         },
         reviews: {
-          title: "Customers thoughts of AUTOFI"
+          title: "Мнение клиентов об AUTOFI"
         },
         contact: {
-          title: "Contact Us",
-          text: "You can send us a message with the form below or call our customer service directly from the number below.",
-          sendMessage: "Send Message",
-          input_name: "Contact person",
-          input_company: "Repair shop",
+          title: "Свяжитесь с нами",
+          text: "Вы можете отправить нам сообщение с помощью формы, расположенной ниже, или позвонить в нашу службу поддержки непосредственно по номеру телефона, указанному ниже.",
+          sendMessage: "Отправить соощение",
+          input_name: "Контактное лицо",
+          input_company: "Название автомастерской",
           input_email: "E-mail",
-          input_subject: "Subject",
-          input_message: "Message",
-          input_send: "Send",
-          aboutUsTitle: "About us",
-          aboutUsText: "We are AUTOFI – a team of professionals who wants to make the life a lot of easier for the car owners and the repair shops. AUTOFI connects the car owners and the repair shops through its innovative platform. The client identifies the car and the service to be done. Repair shops then send their prices and bids on the service – simple, hassle free and transparent.",
-          contactInfoTitle: "Contact Information",
+          input_subject: "Тема",
+          input_message: "Сообщение",
+          input_send: "Отправить",
+          aboutUsTitle: "О нас",
+          aboutUsText: "AUTOFI - это команда профессионалов, которая хочет сделать жизнь владельцев автомобилей и ремонтных мастерских намного проще. AUTOFI соединяет владельцев автомобилей и ремонтные мастерские через свою инновационную платформу. Клиент указывает автомобиль и услугу,затем ремонтные мастерские  отправляют свои цены и предложения по услуге. Все происходит просто, беспроблемно и прозрачно.",
+          contactInfoTitle: "Контакты",
           email: "info@autofi.ee"
         }
       },
@@ -1070,23 +1071,23 @@ const translations = {
 
       contactUs: {
         hero: {
-          title: "Contact us",
-          text: "We are ready to lead you into the future of finding the service which suits best for your needs",
+          title: "Контакты",
+          text: "Мы готовы привести вас в будущее, чтобы найти сервис, который лучше всего подходит для ваших нужд(????)",
         },
         contactForm: {
-          title: "Get in touch with us",
-          text: "AUTOFI is the only auto platform in the Baltics which has been created especially for you. Book a service and compare the prices with a help of our platform – fast, easy and without hassle. Find the service which suits best for your needs.",
+          title: "Оставатесь на связи с нами",
+          text: "AUTOFI - единственная автоматическая платформа в странах рибалтики,которая создана специально для вас. Закажите услугу и сравните цены с помощью нашей платформы - быстро, легко и без хлопот. Найдите услугу, которая лучше всего подходит для ваших нужд.",
           subTitle: "MISSING TRANSLATION (?)",
           listItem1: "MISSING TRANSLATION (?)",
           listItem2: "MISSING TRANSLATION (?)",
           listItem3: "MISSING TRANSLATION (?)",
-          required: "Please note: all fields are required",
-          lbl_firstName: "First Name",
-          lbl_lastName: "Last Name",
+          required: "Пожалуйста, обратите внимание: все поля обязательны для заполнения",
+          lbl_firstName: "Имя",
+          lbl_lastName: "Фамилия",
           lbl_email: "E-mail",
-          lbl_country: "Country",
-          lbl_message: "Message",
-          btn_send: "SEND A MESSAGE"
+          lbl_country: "Страна",
+          lbl_message: "Сообщение",
+          btn_send: "ОТПРАВИТЬ СООБЩЕНИЕ"
         }
       },
 
@@ -1095,59 +1096,59 @@ const translations = {
       *********************************************/
 
       bookService: {
-        title: "Book a car service",
-        btn_submit: "Submit",
+        title: "Найти автосервис",
+        btn_submit: "Подтвердить(?)",
         vehicle: {
-          title: "Vehicle details",
-          newCarTitle: "Add a new car",
-          license_plate: "License plate",
-          production_year: "Select production year",
-          make: "Select car make",
-          model: "Select car model",
-          trim: "Select car variant (version)",
-          transmission: "Select car transmission",
-          readout: "Mileage"
+          title: "Деталь машины",
+          newCarTitle: "Добавить новый автомобиль",
+          license_plate: "Номер автомобиля",
+          production_year: "Выберите год выпуска автомобиля",
+          make: "Выберите производителя автомобиля",
+          model: "Выберите модель автомобиля",
+          trim: "Выберите версию(вариант) автомобиля(тип что ли?)",
+          transmission: "Тип коробки передач автомобиля",
+          readout: "Пробег автомобиля"
         },
         service: {
-          selectService: "Select service",
-          title: "Choose service",
-          btn_remove: "Remove",
-          description: "Tell a bit about your maintenance needs to get good deals.",
-          btn_showMore: "Show more services",
-          btn_showLess: "Show less services"
+          selectService: "Ввыберите тип ремонта",
+          title: "Выберите тип ремонта",
+          btn_remove: "Удалить",
+          description: "Расскажите немного о ваших потребностях в техническом обслуживании, чтобы получить подходящие предложения.",
+          btn_showMore: "Показать больше сервисов(автосервисов?)",
+          btn_showLess: "Показать меньше сервисов(автосервисов?)","
         },
         location: {
-          title: "Location and service time",
+          title: "Местоположение и время",
           time: {
-            placeholder: "Choose time for your service",
-            option1: "Soon as possible",
-            option2: "Within one week",
-            option3: "Within two weeks",
-            option4: "During a month"
+            placeholder: "Выберите удобное время для ремонта",
+            option1: "Как можно быстрее",
+            option2: "В течение недели",
+            option3: "В течение двух недель",
+            option4: "В течение месяца"
           }
         },
         user: {
-          title: "User details",
-          btn_register: "Register",
-          btn_login: "Login",
-          or: "or",
+          title: "детали пользователя(???)",
+          btn_register: "Зарегистрироваться",
+          btn_login: "Войти",
+          or: "или",
         },
         successfulRegisterModal: {
-          title: "Successfully registered services:"
+          title: "Ремонт(автосервис) успешно создан:"
         },
         errorRegisterModal: {
-          title: 'Failed to register these services:'
+          title: 'не удалось зарегистрировать сервис(???):'
         },
         wrong_license_modal: {
-          title: "Wrong license number format",
+          title: "Неправильный номер автомобиля",
           ok_btn: "OK"
         },
         fill_all_sections_modal: {
-          title: "You have to fill all sections.",
+          title: "ВСЕ поля обязательны для заполнения.",
           ok_btn: "OK"
         },
         something_wrong_modal: {
-          title: "Something went wrong! Try again.",
+          title: "Что-то пошло не так! Попробуйте снова.",
           ok_btn: "OK"
         }
       },
