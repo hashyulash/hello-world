@@ -932,7 +932,7 @@ const translations = {
         perks: {
           perk1: {
             title: "Сохраните ваши время и деньги",
-            text: "Ваше время - ценный ресурс. Получите предложения и сравните цены. Экономьте время и деньги
+            text: "Ваше время - ценный ресурс. Получите предложения и сравните цены. Экономьте время и деньги"
           },
           perk2: {
             title: "Бесплатно",
@@ -971,31 +971,31 @@ const translations = {
           why_select:  {
               title: "Почему вы пишете нам? *",
               options: [
-                { text: 'Select an option', value: '' },
-                { text: 'I would like to report a bug', value: 'bug' },
-                { text: 'I would like to request a feature', value: 'feature' },
-                { text: 'I have general support query', value: 'general' },
-                { text: 'Its something else...', value: 'else' }
+                { text: 'Выберите', value: '' },
+                { text: 'Хочу сообщить о баге', value: 'bug' },
+                { text: 'Хочу предложить новую функциональность', value: 'feature' },
+                { text: 'Мне нужна помощь', value: 'general' },
+                { text: 'Кое-что другое...', value: 'else' }
               ]
             },
           what_select: {
-           title: "What are you writing to us about? *",
+           title: "О чем вы нам пишите? *",
            options: [
-             { text: 'Select an option', value: '' },
-             { text: 'Website', value: 'website' },
-             { text: 'Dashboard', value: 'dashboard' },
-             { text: 'Car service', value: 'car_service' },
-             { text: 'Repairs', value: 'repair' },
-             { text: 'Other', value: 'other' }
+             { text: 'Выберите', value: '' },
+             { text: 'Вебсайт', value: 'website' },
+             { text: 'Панель инструментов', value: 'dashboard' },
+             { text: 'Автосервис', value: 'car_service' },
+             { text: 'Ремонт', value: 'repair' },
+             { text: 'Другое', value: 'other' }
            ]
           },
-          subject: "Subject",
-          country: "Country",
-          description: "Description",
-          descDetail: "Please enter the details of your request. A member of our support staff will respond as soon as possible.",
-          attachments: "Attachments",
-          file: "Add a file",
-          send_btn: "Send a message"
+          subject: "Тема",
+          country: "Страна",
+          description: "Описание",
+          descDetail: "Пожалуйста, заполните детали вашего запроса. Наша служба поддержки ответит вам при первой возможности.",
+          attachments: "Вложения",
+          file: "Добавить файл",
+          send_btn: "Отправить"
         }
       },
 
@@ -1157,8 +1157,8 @@ const translations = {
                       MOBILE FOLLOW US
       *********************************************/
       mobile_follow_us: {
-        title: "Follow us!",
-        text: "We report on our product development, new features, and other things via e-mail and on the social media."
+        title: "Следуйте за нами!",
+        text: "Мы рассказываем о разработке нашего продукта, новых функциональностях и других вещах по e-mail и через социальные сети."
       },
 
 
@@ -1167,22 +1167,22 @@ const translations = {
       *********************************************/
       footer: {
         partner: {
-          title: "Become a partner",
-          link1: "For car services",
+          title: "Стать парнером",
+          link1: "Для автосервисов",
           link2: "FAQ",
-          link3: "Request an article",
-          link4: "Contact us"
+          link3: "Обратная связь",
+          link4: "Контакты"
         },
         about: {
-          title: "About",
-          link1: "Terms",
-          link2: "Privacy policy",
-          link3: "Newest updates"
+          title: "О компании",
+          link1: "Условия",
+          link2: "Политика конфиденциальности",
+          link3: "Последние обновления"
         },
         follow: {
-          title: "Follow Us",
-          login: "Login",
-          register: "Register"
+          title: "Следуйте за нами",
+          login: "Войти",
+          register: "Зарегистрироваться"
         },
         cookie: {
           part1text: "This website uses cookies to ensure you get the best experience on our website. Please, read our",
