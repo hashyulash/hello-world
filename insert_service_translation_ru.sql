@@ -220,77 +220,77 @@ INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`)
 
 -- CATEGORY 20: Mootoripyörähuolto / Motorcycle service / Ремонт мотоциклов
 
--- CATEGORY 21: Nelipyöräsuuntaus / Four-wheel alingment / 
+-- CATEGORY 21: Nelipyöräsuuntaus / Four-wheel alingment / Выравнивание колес
 
--- CATEGORY 22: Ohjaus / Steering / 
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (181, 'ru', 'Ball-joint change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (182, 'ru', 'Change of The Bush of the lower arm');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (183, 'ru', 'Lower arm change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (184, 'ru', 'Anti roll bar change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (185, 'ru', 'Power steering oil change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (186, 'ru', 'Power steering pump change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (187, 'ru', 'Change of Tie Rod Ends');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (188, 'ru', 'Tie Rod change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (189, 'ru', 'Axle Shaft boot rubber change');
+-- CATEGORY 22: Ohjaus / Steering / Рулевое управление
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (181, 'ru', 'Замена шарового шарнира');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (182, 'ru', 'Замена втулки нижнего рычага');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (183, 'ru', 'Замена нижнего рычага');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (184, 'ru', 'Замена сальника');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (185, 'ru', 'Замена масла в рулевом редукторе');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (186, 'ru', 'Замена насоса гидроусилителя руля');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (187, 'ru', 'Замена рулевых наконечников');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (188, 'ru', 'Замена поперечной рулевой тяги');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (189, 'ru', 'Замена резинового валика на осевом вале');
 
--- CATEGORY 23: Optimointi ja lastutus / Optimization and chip tuning / 
+-- CATEGORY 23: Optimointi ja lastutus / Optimization and chip tuning / Оптимизация и настройка микросхем
 
--- CATEGORY 24: Pakoputkisto / Exhaust system / 
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (190, 'ru', 'Silencer change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (191, 'ru', 'Particle filter removal');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (192, 'ru', 'Particle filter cleaning');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (193, 'ru', 'Particle filter change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (194, 'ru', 'Catalytic converter change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (195, 'ru', 'Oxygen sensor (Lambda sensor) change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (196, 'ru', 'Exhaust pipe repair');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (197, 'ru', 'Exhaust pipe change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (198, 'ru', 'Exhaust manifold change');
+-- CATEGORY 24: Pakoputkisto / Exhaust system / Выхлопная система
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (190, 'ru', 'Замена глушителя');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (191, 'ru', 'Удаление сажевого фильтра');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (192, 'ru', 'Очистка сажевого фильтра');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (193, 'ru', 'Замена сажевого фильтра');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (194, 'ru', 'Замена катализатора');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (195, 'ru', 'Замена кислородного датчика (Лямбда зонда)');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (196, 'ru', 'Ремонт выхлопной трубы');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (197, 'ru', 'Замена выхлопной трубы');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (198, 'ru', 'Замена выпускного коллектора');
 
--- CATEGORY 25: Puhdistus ja hoitopalvelut / Cleaning, washing and other care services / 
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (199, 'ru', 'Car treatment');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (200, 'ru', 'Car polishing');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (201, 'ru', 'Car ozonation');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (202, 'ru', 'Car seats cleaning');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (203, 'ru', 'Car interior cleaning');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (204, 'ru', 'Car waxing');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (205, 'ru', 'Engine washing');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (206, 'ru', 'Rim washing');
+-- CATEGORY 25: Puhdistus ja hoitopalvelut / Cleaning, washing and other care services / Чистка, мойка и другие услуги по уходу
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (199, 'ru', 'Обработка автомобиля');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (200, 'ru', 'Полировка автомобиля');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (201, 'ru', 'Озонирование автомобиля');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (202, 'ru', 'Чистка сидений автомобиля');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (203, 'ru', 'Чистка салона автомобиля');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (204, 'ru', 'Покрытие воском');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (205, 'ru', 'Мойка двигателя');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (206, 'ru', 'Мойка колесных дисков');
 
--- CATEGORY 26: Ruostekorjaus / Rusti repair / 
+-- CATEGORY 26: Ruostekorjaus / Rusti repair / Ремонт ржавчины
 
--- CATEGORY 27: Ruostesuojaus / Rust protection / 
+-- CATEGORY 27: Ruostesuojaus / Rust protection / Защита от коррозии
 
--- CATEGORY 28: Sähkötyöt / Electrical work / Электрические работы
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (207, 'ru', 'ABS sensor change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (208, 'ru', 'ABS unit change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (209, 'ru', 'Window lifter change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (210, 'ru', 'Instrument panel repair');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (211, 'ru', 'Distributor change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (212, 'ru', 'Ignition');
+-- CATEGORY 28: Sähkötyöt / Electrical work / Автоэлектрика
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (207, 'ru', 'Замена датчика ABS');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (208, 'ru', 'Замена блока ABS');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (209, 'ru', 'Замена стеклоподъемника');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (210, 'ru', 'Замена панели приборов');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (211, 'ru', 'Замена распределителя');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (212, 'ru', 'Зажигание');
 
--- CATEGORY 29: Vaihteisto / Gearbox / 
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (213, 'ru', 'Automatic gearbox oil change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (214, 'ru', 'Manual gearbox oil change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (215, 'ru', 'DSG oil change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (216, 'ru', 'Tiptronic oil change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (217, 'ru', 'Gearbox repair');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (218, 'ru', 'Gearbox change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (219, 'ru', 'Gearbox thrust bearing change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (220, 'ru', 'Gearbox oil change');
+-- CATEGORY 29: Vaihteisto / Gearbox / Коробка передач
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (213, 'ru', 'Замена масла в автоматической коробке передач');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (214, 'ru', 'Замена масла в механической коробке передач');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (215, 'ru', 'Замена масла в DSG');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (216, 'ru', 'Замена масла в АКПП Tiptronic');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (217, 'ru', 'Ремонт коробки передач');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (218, 'ru', 'Замена коробки передач');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (219, 'ru', 'Замена опорного подшипника коробки передач');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (220, 'ru', 'Замена масла в коробке передач');
 
--- CATEGORY 30: Valot / Lights / 
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (221, 'ru', 'Installation of Extra Lights');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (222, 'ru', 'Change of bulbs');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (223, 'ru', 'Rear lamp bulb change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (224, 'ru', 'Xenon bulb change');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (225, 'ru', 'Xenon light installation');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (226, 'ru', 'Interior lights');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (227, 'ru', 'Instrument panel lights');
+-- CATEGORY 30: Valot / Lights / Свет
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (221, 'ru', 'Установка дополнительного света');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (222, 'ru', 'Замена ламп');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (223, 'ru', 'Замена лампы задней фары');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (224, 'ru', 'Замена ксеноновой лампы');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (225, 'ru', 'Установка ксеноновой лампы');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (226, 'ru', 'Светильники салона');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (227, 'ru', 'Светильники приборной панели');
 
 -- CATEGORY 31: Vikakoodien luku / Diagnostics / Fault code reading / 
 
 -- CATEGORY 32: Muu työ / Other service / work / 
 
--- CATEGORY 33: Kaasuauto / Natural gas vehicle / 
+-- CATEGORY 33: Kaasuauto / Natural gas vehicle / Автомобиль на природном газе
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (228, 'ru', 'Natural gas vehicle after-installation');
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (229, 'ru', 'Natural gas vehicle conversion');
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (229, 'ru', 'Перевод автомобиля на природный газ ');
