@@ -170,8 +170,8 @@ INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`)
 
 -- CATEGORY 11: Vianhaku / Trouble shooting / Поиск неисправностей
 
--- CATEGORY 12:  Öljynvaihto / Oil change
-INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (149, 'ru', 'Change of motoroil and oil filter');
+-- CATEGORY 12:  Öljynvaihto / Oil change / Замена масла
+INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (149, 'ru', 'Замена моторного масла и масляного фильтра');
 
 -- CATEGORY 13:  Akku / Battery / Аккумулятор
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (150, 'ru', 'Техобслуживание аккумулятора');
