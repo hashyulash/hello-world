@@ -9,7 +9,7 @@ INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`)
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (6, 'ru', 'Периодическое техобслуживание');
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (7, 'ru', 'Проверка текущего состояния');
 
--- CATEGORY 2: ILMASTOINTOHUOLTO / AIR CONDITIONING / Oro kondicionierius /Кондиционирование
+-- CATEGORY 2: ILMASTOINTOHUOLTO / AIR CONDITIONING / Oro kondicionierius / Кондиционирование
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (8, 'ru', 'Обслуживание системы кондиционирования');
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (9, 'ru', 'Дезинфекция кондиционера');
 INSERT INTO `service_translation` (`service_id`, `language_tag`, `service_name`) VALUES (10, 'ru', 'Замена компрессора кондиционера');

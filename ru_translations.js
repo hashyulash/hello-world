@@ -876,9 +876,9 @@ const translations = {
       meta: {
         homepage: {
           complement: "Бронирование автосервиса",
-          description: "Забронируй автосервис, получи предложение и сравни цены легко и без проблем(без обязательств)",
+          description: "Бронируй автосервис, получай предложение и сравнивай цены легко и без проблем",
           book_aservice: "Бронирование",
-          for_car_services: "Для владельцев автомастерских",
+          for_car_services: "Для автосервисов",
           faq: "FAQ",
           contact: "Контакты",
           login: "Войти",
@@ -892,47 +892,47 @@ const translations = {
       *********************************************/
       homepage: {
         navbar: {
-            for_car_services: "Для владельцев автомастерских",
+            for_car_services: "Для автосервисов",
             faq: "FAQ",
             contact: "Контакты",
             my_account: "Мой аккаунт",
-            bookService: "Выбери автомастерскую",
-            home: "Главная страница???(Home)",
+            bookService: "Выбери автосервис",
+            home: "Главная страница",
             user: {
               dashboard: "Панель инструментов",
-              search: "Поиск автомастерских",
+              search: "Поиск автосервисов",
               vehicles: "Машины",
               settings: "Настройки",
               logout: "Выход"
             },
             company: {
               dashboard: "Панель инструментов",
-              billing: "Счета",
+              billing: "Оплата",
               feedback: "Обратная связь",
               settings: "Настройки",
             },
         },
         hero: {
-            title: "Поиск автомастерской",
-            text: "Забронируй автосервис, получи предложение и сравни цены легко и без проблем(без обязательств)",
+            title: "Поиск автосервисов",
+            text: "Бронируй автосервис, получай предложение и сравнивай цены легко и без проблем",
             book_btn: "Бронирование",
             register_btn: "Создать аккаунт"
         },
         how_we_work: {
             title: "Как мы работаем",
-            text: "Укажите ваше местоположение и необходимый ремонт(какой?) автомобиля. Мы позаботимся об остальном и предложим возможные автомастерские. Мы покажем вам несколько предложений по услугам в пределах вашего предпочтительного радиуса и расписания. Сравните цены и выберите предложение по ремонту, которое соответствует вашим потребностям. Это просто! Мы хотим предоставить вам лучшие цены на услуги в вашем районе. Больше никаких хлопот с телефонными звонками или электронными письмами в ремонтные мастерские. Начните сейчас и откройте новую эру автосервиса!",
-            button: "Найти автомастерскую"
+            text: "Укажите ваше местоположение и тип ремонта, необходимый для вашего автомобиля. Мы позаботимся об остальном и предложим возможные автосервисы. Мы покажем вам несколько предложений по услугам в пределах вашего предпочтительного радиуса и расписания. Сравнивайте цены и выбирайте предложение по ремонту, которое соответствует вашим потребностям. Это просто! Мы хотим предоставить вам лучшие цены на услуги в вашем районе. Больше никаких хлопот с телефонными звонками или электронными письмами в ремонтные мастерские. Начните сейчас и откройте новую эру автосервисов!",
+            button: "Найти автосервис"
         },
         partner: {
-          title: "Становись нашим партнером и увеличивай клиентскую базу с Autofi",
-          text: "Присоединяйся к нашей платформе и увеличивай клиентскую базу . Освободите время из вашего расписания работы и получите через нас несколько запросов на обслуживание. Вы можете легко выбрать, какую услугу предлагать на торгах. Предлагая выгодную цену для владельцев автомобилей, вы можете увеличить поток клиентов. Нет необходимости самостоятельно предлагать услуги - мы позаботимся обо всем. Просто расслабьтесь и обслуживайте своих клиентов",
+          title: "Становитесь нашим партнером и увеличивайте клиентскую базу с Autofi",
+          text: "Присоединяйтесь к нашей платформе и увеличивайте клиентскую базу. Освободите время из вашего расписания и получайте через нас запросы на обслуживание. Вы можете легко выбрать, какую услугу предлагать на торгах. Предлагая выгодную цену для владельцев автомобилей, вы сможете увеличить поток клиентов. Нет необходимости самостоятельно предлагать услуги - мы позаботимся обо всем. Просто расслабьтесь и обслуживайте своих клиентов",
           btn_readmore: 'Узнать больше',
-          btn_register: 'Регистрация'
+          btn_register: 'Зарегистрироваться'
         },
         perks: {
           perk1: {
             title: "Сохраните ваши время и деньги",
-            text: "Ваше время - ценный ресурс. Получите предложения и сравните цены. Экономьте время и деньги"
+            text: "Ваше время - ценный ресурс. Получайте заказы и сравнивайте цены. Экономьте время и деньги"
           },
           perk2: {
             title: "Бесплатно",
@@ -940,7 +940,7 @@ const translations = {
           },
           perk3: {
             title: "Легко и безопасно",
-            text: "Наши партнеры - автомастерские взяли на себя обязательство благополучия вашего автомобиля. Получите до двух лет гарантии на ремонт автомобиля и детали."
+            text: "Наши партнеры - автосервисы, взяли на себя обязательство благополучия вашего автомобиля. Получите до двух лет гарантии на ремонт автомобиля и детали."
           }
         }
       },
@@ -954,9 +954,9 @@ const translations = {
         search_input: "Поиск",
         gettingStarted: "Начало работы",
         carOwners: "Autofi для владельцев автомобилей",
-        carServices: "Autofi для автомастерских",
+        carServices: "Autofi для автосервисов",
         recent: "Недавняя активность",
-        found_articles: "Создать статью",
+        found_articles: "Найти статьи",
         seeMore: "Увидеть больше",
         guide: "Autofi руководство",
         articles: "Статьи этой секции",
@@ -965,7 +965,7 @@ const translations = {
         no: "Нет",
         moreQuestions: "Остались вопросы?",
         submitRequest: {
-          title: "Отправить запрос",
+          title: "Отправить вопрос",
           requiedFields: "Пожалуйста, обратите внимание: все поля обязательны для заполнения ",
           email: "Email *",
           why_select:  {
@@ -1008,30 +1008,30 @@ const translations = {
 
       forCarServices: {
         hero: {
-          title: "Autofi перенесет вам в будущее",
-          text: "Мы - будущее услуг по ремонту автомобиля. Мы помогаем вам получить больший поток клиентов путем проведения торгов и онлайн-бронирования. Правильная цена, качество обслуживания и расписание являются основными факторами при выборе автомастерской. Мы хотим помочь вам получить эти преимущества. Наша платформа разработана для вас и проста в использовании ",
+          title: "Autofi перенесет вас в будущее",
+          text: "Мы - будущее для автосервисов. Мы помогаем вам получать больший поток клиентов путем проведения торгов и онлайн-бронирования. Правильная цена, качество обслуживания и расписание являются основными факторами при выборе автосервиса. Мы хотим помочь вам получить эти преимущества. Наша платформа разработана для вас и проста в использовании.",
           btn_register: "Зарегистрироваться",
           btn_login: "Войти"
         },
         carServiceInfo: {
-          title: "Autofi работает для каждой автомастерской",
-          text: "Независимо от того, являетесь ли вы небольшой автомастерской или крупным игроком на рынке, сделайте свою жизнь проще и увеличивайте поток клиентов и доходы через нас. Благодаря нашей оптимизированной поисковой системе видимости, на первой странице вы сможете найти клиентов проще, по сравнению с другими ресурсами. Мы предлагаем вам полную платформу для охвата всех клиентов в вашем регионе. Нажмите, предложите и выиграйте.",
+          title: "Autofi работает для каждого автосервиса",
+          text: "Независимо от того, являетесь ли вы небольшим автосервисом или крупным игроком на рынке, сделайте свою жизнь проще и увеличивайте поток клиентов и доходы через нас. Благодаря нашей оптимизированной поисковой системе выдачи, на первой странице вы сможете найти клиентов проще, по сравнению с другими ресурсами. Мы предлагаем вам полноценную платформу для охвата всех клиентов в вашем регионе. Нажмите, предложите цену и выиграйте.",
           perks: {
             perk1: {
               title: "Онлайн поиск",
-              text: "Ваши клиенты здесь - будьте здесь с ними. Помогите им упростить задачу выбора.",
+              text: "Ваши клиенты онлайн - будьте с ними. Помогите им сделать выбор проще.",
             },
             perk2: {
               title: "Повысьте ваши продажи",
-              text: "Заполните пустое время в своем расписании и получите дополнительный доход. Используйте больше своих ресурсов для обслуживания своих клиентов и меньше -  для рекламы. Экономьте ваши деньги и время.",
+              text: "Заполните свободное время в вашем расписании и получайте дополнительный доход. Используйте больше своих ресурсов для обслуживания клиентов и меньше - для рекламы. Экономьте ваши деньги и время.",
             },
             perk3: {
-              title: "Доступ к вашим клиентам",
+              title: "Доступ к клиентам",
               text: "Наша платформа - это мощный инструмент для предоставления сервисных предложений клиентам. Управляйте всеми своими предложениями и запросами через нас. Меньше хлопот и прямых контактов с клиентами. "
             },
             perk4: {
               title: "Будьте успешными",
-              text: "Выделитесь из толпы. Покажите свои преимущества клиенту. Вам не нужно предлагатьсамую дешевую цену, чтобы выиграть ставки."
+              text: "Выделитесь из толпы. Покажите свои преимущества клиенту. Вам не нужно предлагать самую низкую цену, чтобы получить заказ."
             }
           }
         },
@@ -1042,7 +1042,7 @@ const translations = {
           reason3: "Заполнение пустых мест в вашем расписании",
           reason4: "Будьте впереди ваших конкурентов",
           reason5: "Перенесите ваш бизнес в век технологий",
-          btn_presentation: 'Ask for presentation????'
+          btn_presentation: 'Запросить презентацию'
         },
         reviews: {
           title: "Мнение клиентов об AUTOFI"
@@ -1050,15 +1050,15 @@ const translations = {
         contact: {
           title: "Свяжитесь с нами",
           text: "Вы можете отправить нам сообщение с помощью формы, расположенной ниже, или позвонить в нашу службу поддержки непосредственно по номеру телефона, указанному ниже.",
-          sendMessage: "Отправить соощение",
+          sendMessage: "Отправить сообщение",
           input_name: "Контактное лицо",
-          input_company: "Название автомастерской",
+          input_company: "Название автосервиса",
           input_email: "E-mail",
           input_subject: "Тема",
           input_message: "Сообщение",
           input_send: "Отправить",
           aboutUsTitle: "О нас",
-          aboutUsText: "AUTOFI - это команда профессионалов, которая хочет сделать жизнь владельцев автомобилей и ремонтных мастерских намного проще. AUTOFI соединяет владельцев автомобилей и ремонтные мастерские через свою инновационную платформу. Клиент указывает автомобиль и услугу,затем ремонтные мастерские  отправляют свои цены и предложения по услуге. Все происходит просто, беспроблемно и прозрачно.",
+          aboutUsText: "AUTOFI - это команда профессионалов, которая хочет сделать жизнь владельцев автомобилей и автосервисов намного проще. AUTOFI соединяет владельцев автомобилей и автосервисы через свою инновационную платформу. Клиент указывает автомобиль и услугу, затем автосервисы отправляют свои цены и предложения по услуге. Все происходит просто, беспроблемно и прозрачно.",
           contactInfoTitle: "Контакты",
           email: "info@autofi.ee"
         }
@@ -1071,11 +1071,11 @@ const translations = {
       contactUs: {
         hero: {
           title: "Контакты",
-          text: "Мы готовы привести вас в будущее, чтобы найти сервис, который лучше всего подходит для ваших нужд(????)",
+          text: "Мы готовы провести вас в будущее поиска подходящего для вас автосервиса.",
         },
         contactForm: {
-          title: "Оставатесь на связи с нами",
-          text: "AUTOFI - единственная автоматическая платформа в странах рибалтики,которая создана специально для вас. Закажите услугу и сравните цены с помощью нашей платформы - быстро, легко и без хлопот. Найдите услугу, которая лучше всего подходит для ваших нужд.",
+          title: "Оставайтесь на связи с нами",
+          text: "AUTOFI - единственная автоматическая платформа в странах Прибалтики, которая создана специально для вас. Закажите услугу и сравните цены с помощью нашей платформы - быстро, легко и без хлопот. Найдите услугу, которая лучше всего подходит для ваших нужд.",
           subTitle: "MISSING TRANSLATION (?)",
           listItem1: "MISSING TRANSLATION (?)",
           listItem2: "MISSING TRANSLATION (?)",
@@ -1096,7 +1096,7 @@ const translations = {
 
       bookService: {
         title: "Найти автосервис",
-        btn_submit: "Подтвердить(?)",
+        btn_submit: "Подтвердить",
         vehicle: {
           title: "Деталь машины",
           newCarTitle: "Добавить новый автомобиль",
@@ -1104,17 +1104,17 @@ const translations = {
           production_year: "Выберите год выпуска автомобиля",
           make: "Выберите производителя автомобиля",
           model: "Выберите модель автомобиля",
-          trim: "Выберите версию(вариант) автомобиля(тип что ли?)",
-          transmission: "Тип коробки передач автомобиля",
+          trim: "Выберите тип (версию) автомобиля",
+          transmission: "Выберите тип коробки передач",
           readout: "Пробег автомобиля"
         },
         service: {
-          selectService: "Ввыберите тип ремонта",
-          title: "Выберите тип ремонта",
+          selectService: "Выберите тип ремонта",
+          title: "Выберите сервис",
           btn_remove: "Удалить",
           description: "Расскажите немного о ваших потребностях в техническом обслуживании, чтобы получить подходящие предложения.",
-          btn_showMore: "Показать больше сервисов(автосервисов?)",
-          btn_showLess: "Показать меньше сервисов(автосервисов?)","
+          btn_showMore: "Показать больше сервисов",
+          btn_showLess: "Показать меньше сервисов","
         },
         location: {
           title: "Местоположение и время",
@@ -1127,16 +1127,16 @@ const translations = {
           }
         },
         user: {
-          title: "детали пользователя(???)",
+          title: "Детали пользователя",
           btn_register: "Зарегистрироваться",
           btn_login: "Войти",
           or: "или",
         },
         successfulRegisterModal: {
-          title: "Ремонт(автосервис) успешно создан:"
+          title: "Сервис успешно создан:"
         },
         errorRegisterModal: {
-          title: 'не удалось зарегистрировать сервис(???):'
+          title: 'Не удалось зарегистрировать сервис:'
         },
         wrong_license_modal: {
           title: "Неправильный номер автомобиля",
@@ -1157,8 +1157,8 @@ const translations = {
                       MOBILE FOLLOW US
       *********************************************/
       mobile_follow_us: {
-        title: "Следуйте за нами!",
-        text: "Мы рассказываем о разработке нашего продукта, новых функциональностях и других вещах по e-mail и через социальные сети."
+        title: "Подпишитесь!",
+        text: "Мы рассказываем о разработке нашего продукта, новых функциях и других вещах по электронной почте и в социальных сетях."
       },
 
 
@@ -1167,7 +1167,7 @@ const translations = {
       *********************************************/
       footer: {
         partner: {
-          title: "Стать парнером",
+          title: "Стать партнером",
           link1: "Для автосервисов",
           link2: "FAQ",
           link3: "Обратная связь",
@@ -1180,17 +1180,17 @@ const translations = {
           link3: "Последние обновления"
         },
         follow: {
-          title: "Следуйте за нами",
+          title: "Подписаться",
           login: "Войти",
           register: "Зарегистрироваться"
         },
         cookie: {
-          part1text: "This website uses cookies to ensure you get the best experience on our website. Please, read our",
-          part2link: "Terms and Conditions",
-          part3text: "before proceeding.",
-          got_it: "Got it!"
+          part1text: "Этот вебсайт использует cookies, чтобы вы получили лучшие впечатления от нашего сайта. Пожалуйста, ознакомьтесь с",
+          part2link: "Условиями использования",
+          part3text: "перед тем, как продолжить.",
+          got_it: "Понятно!"
         },
-        copyright: "Copyright 2018 Autofi - All Rights Reserved"
+        copyright: "Copyright 2018 Autofi - Все Права Защищены"
       },
 
       /*********************************************
@@ -1199,13 +1199,13 @@ const translations = {
 
       login: {
         form: {
-          google: "Log in with Google",
-          or: "or",
-          remember_me: "Remember me",
-          forgot_password: "Forgot password",
-          no_account: "Don't have an account yet? ",
-          btn_register: "Register",
-          try_again: "Please try again."
+          google: "Войти с помощью Google",
+          or: "или",
+          remember_me: "Запомнить меня",
+          forgot_password: "Не помню пароль",
+          no_account: "Еще нет аккаунта? ",
+          btn_register: "Зарегистрироваться",
+          try_again: "Пожалуйста, попробуйте еще."
         }
       },
 
@@ -1213,34 +1213,34 @@ const translations = {
                             SIGNUP
       *********************************************/
       signup: {
-        title: "Please register using one of the following account types",
-        btn_back: "Back",
+        title: "Пожалуйста, зарегистрируйтесь при помощи одного из следующих типов аккаунтов",
+        btn_back: "Назад",
         user: {
-          title: "User",
-          text: "I want to get my car fixed",
+          title: "Пользователь",
+          text: "Я хочу получить мой автомобиль отремонтированным",
           form: {
-            title: "Please fill out the form:",
-            firstname: "First name",
-            lastname: "Last name",
+            title: "Пожалуйста, заполните форму:",
+            firstname: "Имя",
+            lastname: "Фамилия",
             email: "E-mail",
-            phone: "Phone number",
-            password: "Password",
-            passwordAgain: "Please, type your password again",
-            country: "Country",
-            city: "City",
-            street: "Street",
-            zip: "ZIP",
-            btn_register: "Register",
-            news: "Notify me about the latest Autofi news",
-            terms: "I agree to",
-            conditions: "Terms and conditions"
+            phone: "Номер телефона",
+            password: "Пароль",
+            passwordAgain: "Пожалуйста, повторите пароль",
+            country: "Страна",
+            city: "Город",
+            street: "Улица",
+            zip: "Индекс",
+            btn_register: "Зарегистрироваться",
+            news: "Уведомлять о новостях Autofi",
+            terms: "Согласен",
+            conditions: "Условия и положения"
           }
         },
         company: {
-          title: "Company",
-          text: "I want to register my repair shop",
-          sub_title: "Subscription types",
-          select_btn: "Select",
+          title: "Компания",
+          text: "Я хочу зарегистрировать мой автосервис",
+          sub_title: "Типы подписок",
+          select_btn: "Выбрать",
           subscription_type: [
             {
               title: "Type",
@@ -1248,56 +1248,56 @@ const translations = {
                 {
                   type: 6,
                   amount: 350,
-                  text: "6 months"
+                  text: "6 месяцев"
                 },
                 {
                   type: 12,
                   amount: 500,
-                  text: "one year"
+                  text: "один год"
                 }
               ],
-              undertext: "for the whole period (3% commission)",
+              undertext: "на весь период (3% комиссии)",
               includes: [
-                "Announcements about requested services around you",
-                "Your personalized profile",
-                "Fast and easy communication with customers regarding pricing and service details",
-                "Technical support",
-                "Statistics about your customers",
-                "Partnership with Autofi"
+                "Уведомления о запрашиваемых услугах рядом с вами",
+                "Ваш персональный профиль",
+                "Быстрая и простая связь с клиентами по вопросам ценообразования и обслуживания",
+                "Техническая поддержка",
+                "Статистика по вашим клиентам",
+                "Партнерство с Autofi"
               ]
             }
           ],
 
           form: {
-            title: "Please fill out the form:",
-            companyName: "Company name",
-            businessID: "Business ID",
+            title: "Пожалуйста, заполните форму:",
+            companyName: "Имя компании",
+            businessID: "Бизнес ID",
             email: "E-mail",
-            companyType: "Company type",
-            foundedYear: "Founded in (year)",
-            phone: "Phone number",
-            password: "Password",
-            passwordAgain: "Please, type your password again",
-            logo: "Upload a logo (max size 3 MB)",
-            country: "Country",
-            city: "City",
-            street: "Street",
-            zip: "ZIP",
-            btn_register: "Register"
+            companyType: "Тип компании",
+            foundedYear: "Основана в (год)",
+            phone: "Номер телефона",
+            password: "Пароль",
+            passwordAgain: "Пожалуйста, повторите пароль",
+            logo: "Загрузить логотип (максимальный размер 3 MB)",
+            country: "Страна",
+            city: "Город",
+            street: "Улица",
+            zip: "Индекс",
+            btn_register: "Зарегистрироваться"
           }
         },
         verification: {
-          title: "Your are one step away!",
-          text1part: "We sent a verification link to",
-          text2part: "Please, follow the instructions in order to complete the registration."
+          title: "Вы в одном шаге от завершения регистрации!",
+          text1part: "Мы отправили вам ссылку для подтверждения",
+          text2part: "Пожалуйста, следуйте инструкциям, чтобы завершить регистрацию."
         },
         verification_result: {
-          wait: "We are verifying your e-mail...Please, wait...",
-          title: "Congratulations!",
-          text1part: "Your account",
-          text2part: "has been successfully added!",
-          log_into1: "Log into",
-          log_into2: "My Dashboard"
+          wait: "Мы проверяем ваш адрес электронной почты ... Пожалуйста, подождите ...",
+          title: "Поздравляем!",
+          text1part: "Ваш аккаунт",
+          text2part: "был успешно зарегистрирован!",
+          log_into1: "Войти в",
+          log_into2: "Моя панель управления"
         }
       },
 
@@ -1307,10 +1307,10 @@ const translations = {
       *********************************************/
 
       forgot_password: {
-        title: "Forgot password",
-        text: "Please, type your e-mail that you used upon registration. We will send you back a link for restoring your password.",
+        title: "Забыли пароль?",
+        text: "Пожалуйста, введите адрес электронной почты, который вы использовали при регистрации. Мы отправим вам ссылку на восстановление пароля.",
         placeholder: "E-mail",
-        restore_btn: "Restore password"
+        restore_btn: "Восстановить пароль"
       },
 
       /*********************************************
@@ -1326,172 +1326,172 @@ const translations = {
         user: {
           google_user: {
             myDashboard: {
-              title1: "Remember to fill all necessary information in ",
-              settings: "settings",
-              title2: " to get the best experience",
-              street: "Street",
-              zip: "Postal code",
-              city: "City",
-              country: "Country",
-              phone: "Phone number"
+              title1: "Не забудьте заполнить всю необходимую информацию в ",
+              settings: "настройках",
+              title2: " чтобы получить лучшие впечатления от использования нашего сервиса",
+              street: "Улица",
+              zip: "Индекс",
+              city: "Город",
+              country: "Страна",
+              phone: "Номер телефона"
             },
             book_service: {
-              title1: "Fill all the mandatory information in the ",
-              settings: "settings",
-              title2: " before booking a service!"
+              title1: "Заполните всю обязательную информацию в",
+              settings: "настройках",
+              title2: " прежде чем выбирать сервис!"
             }
           },
           myDashboard: {
-            title: "My service history",
-            openBids: "Open bids",
-            confirmedBids: "Confirmed bids",
-            btn_bookService: "Book a new service",
-            noOpenBids: "You don’t have open bids yet. Tender a new service now!",
-            btn_delete: "Delete",
-            noOffers: "You dont have any bids yet, wait patiently!",
-            btn_showAllBids: "Show all bids",
-            rateTitle: "Rate your car service",
-            txtArea_placeholder: "Give feedback",
-            btn_submit: "Submit",
-            price: "Price",
-            btn_accept: "Accept",
-            noConfirmedBids: "You don’t have confirmed bids yet. Tender a new service now.",
-            available_from: "Available from",
-            distance: "Distance to service",
-            rental_car: "Rental car",
-            rental_car_available: "Available",
-            rental_car_not_available: "Not available",
+            title: "Моя история",
+            openBids: "Открытые заявки",
+            confirmedBids: "Подтвержденные заявки",
+            btn_bookService: "Выбрать новый сервис",
+            noOpenBids: "У вас еще нет открытых заявок. Оставьте новый заказ сейчас!",
+            btn_delete: "Удалить",
+            noOffers: "У вас еще нет предложений, пожалуйста, подождите!",
+            btn_showAllBids: "Показать все предложения",
+            rateTitle: "Оценить ваш сервис",
+            txtArea_placeholder: "Оставить отзыв",
+            btn_submit: "Подтвердить",
+            price: "Цена",
+            btn_accept: "Согласиться",
+            noConfirmedBids: "У вас еще нет подтвержденных заявок. Оставьте новый заказ сейчас.",
+            available_from: "Доступно из",
+            distance: "Расстояние до автосервиса",
+            rental_car: "Прокат автомобилей",
+            rental_car_available: "Доступен",
+            rental_car_not_available: "Не доступен",
             from: "from",
             open_modal: {
-              title: "Are you sure?",
-              text: "You won't be able to revert this!",
-              accept_btn: "Yes, accept price!",
-              cancel_btn: "Cancel"
+              title: "Вы уверены?",
+              text: "Вы не сможете отменить это!",
+              accept_btn: "Да, согласен на эту цену!",
+              cancel_btn: "Отмена"
             },
             accepted_modal: {
-              title: "Accepted!",
-              text: "Car service representative will contact you as soon as possible",
+              title: "Принято!",
+              text: "Представитель автосервиса свяжется с вами как можно скорее",
               ok_btn: "OK"
             },
             rating_modal: {
-              title: "Thanks for rating the car service!"
+              title: "Спасибо за оценку автосервиса!"
             },
             delete_modal: {
-              title: "Are you sure?",
-              text: "You won't be able to revert this!",
-              confirm_btn: "Yes, delete it!",
-              cancel_btn: "Cancel",
+              title: "Вы уверены?",
+              text: "Вы не сможете отменить это!",
+              confirm_btn: "Да, удалить это!",
+              cancel_btn: "Отмена",
               deleted: {
-                title: "Deleted",
-                text: "Your file has been deleted."
+                title: "Удалено",
+                text: "Ваш файл был удален."
               }
             }
 
           },
           settings: {
-            title: "Settings",
-            firstname: "First name:",
-            lastname: "Last name:",
-            street: "Street:",
-            zip: "Postal code:",
-            city: "City:",
-            country: "Country:",
+            title: "Настройки",
+            firstname: "Имя:",
+            lastname: "Фамилия:",
+            street: "Улица:",
+            zip: "Индекс:",
+            city: "Город:",
+            country: "Страна:",
             email: "E-mail:",
-            phonenumber: "Phone number:",
-            btn_update: "Update",
-            btn_delete: "Delete account",
+            phonenumber: "Номер телефона:",
+            btn_update: "Обновить",
+            btn_delete: "Удалить аккаунт",
             delete_modal: {
-              title: "Are you sure you want to delete your account?",
-              text: "All your personal data will be deleted. You won't be able to revert this!",
-              yes_btn: "Yes",
-              cancel_btn: "Cancel"
+              title: "Вы уверены, что хотите удалить аккаунт?",
+              text: "Все ваши персональные данные будут удалены. Вы не сможете отменить это!",
+              yes_btn: "Да",
+              cancel_btn: "Отмена"
             },
             deleted_modal: {
-              title: "Deleted",
-              text: "Your account has been deleted.",
+              title: "Удалено",
+              text: "Ваш аккаунт был удален.",
               ok_btn: "OK"
             },
-            change_password: "Change password",
+            change_password: "Изменить пароль",
             change_password_form: {
-              old_password: "Old password",
-              new_password: "New password",
-              repeat_new_password: "Repeat new password",
-              change: "Change",
-              cancel: "Cancel",
-              empty_password: "Passwords can not be empty!",
-              not_identical: "New passwords are not identical!"
+              old_password: "Старый пароль",
+              new_password: "Новый пароль",
+              repeat_new_password: "Повторите новый пароль",
+              change: "Изменить",
+              cancel: "Отмена",
+              empty_password: "Пароль не может быть пустым!",
+              not_identical: "Повтор нового пароля не совпадает с введенным значением!"
             }
           },
           vehicles: {
-            title: "My vehicles",
-            nav_title: "Vehicles",
-            btn_inspect: "Inspect vehicle details",
-            btn_tender1: "Tender",
-            btn_tender2: "service",
-            btn_addNewCar: "Add new vehicle",
-            btn_edit: "Edit vehicle information",
-            btn_delete: "Delete vehicle",
-            serviceHistory: "Service history",
-            btn_update: "Update car",
-            btn_back: "Back",
-            car_image: "Image",
-            vehicleModalTitle: "Are you sure?",
-            vehicleModalText: "You won’t be able to revert this!",
-            vehicleModalAccept: "Yes, delete vehicle!",
-            vehicleModalCancel: "Cancel",
-            vehicleModalAcceptedTitle: "Accepted!",
-            vehicleDeleteAcceptedText: "Your vehicle is deleted!",
-            vehicleUpdateBtn: "Yes, update vehicle!",
-            vehicleUpdateText: "Your vehicle is updated!",
-            noVehicles: "You dont have any vehicles added",
-            no_history: "You haven't done any services.",
+            title: "Мои автомобили",
+            nav_title: "Автомобили",
+            btn_inspect: "Осмотр деталей автомобиля",
+            btn_tender1: "Предложение",
+            btn_tender2: "Ремонт",
+            btn_addNewCar: "Добавить новый автомобиль",
+            btn_edit: "Изменить информацию об автомобиле",
+            btn_delete: "Удалить автомобиль",
+            serviceHistory: "История ремонта",
+            btn_update: "Обновить автомобиль",
+            btn_back: "Назад",
+            car_image: "Изображение",
+            vehicleModalTitle: "Вы уверены?",
+            vehicleModalText: "Вы не сможете отменить это!",
+            vehicleModalAccept: "Да, удалить автомобиль!",
+            vehicleModalCancel: "Отмена",
+            vehicleModalAcceptedTitle: "Успешно!",
+            vehicleDeleteAcceptedText: "Ваш автомобиль был удален!",
+            vehicleUpdateBtn: "Да, обновить автомобиль!",
+            vehicleUpdateText: "Ваш автомобиль был обновлен!",
+            noVehicles: "У вас нет добавленных автомобилей",
+            no_history: "Вы не использовали никаких видов ремонта",
             edit_form: {
-              make: "Make",
-              trim: "Trim",
-              production_year: "Production year",
-              transmission: "Transmission",
-              readout: "Mileage",
-              automatic: "Automatic",
-              manual: "Manual",
-              image_upload: "Upload an image (max. size 3 MB)",
+              make: "Марка",
+              trim: "Отделка",
+              production_year: "Год выпуска",
+              transmission: "Коробка передач",
+              readout: "Пробег",
+              automatic: "Автоматическая",
+              manual: "Ручная",
+              image_upload: "Загрузить изображение (максимальный размер 3 MB)",
             }
 
           },
           search: {
-            allServices: "All services",
-            allMakes: "All makes",
-            btn_search: "Search",
-            map: "Map",
-            serve_makes: "We serve these car makes",
-            serve_services: "We do these services",
-            all_makes: "We serve all car makes",
-            all_services: "We do all services",
-            amountOfCarservices: "Amount of car services",
-            orderRating: "Order by: Rating",
-            orderDistance: "Order by: Distance",
-            insuranceWork: "Warranty for the work",
-            insuranceSpareParts: "Warranty for the spare parts",
-            notSpecified: "Not specified",
-            openHours: "Open hours",
-            mo_fri: "Monday - Friday",
-            sa: "Saturday",
-            su: "Sunday",
-            employees: "Employees",
-            insurance: "Insurance",
-            additionalServices: "Additional services",
-            spareParts: "Spare parts",
-            payment: "Payment methods",
-            closed: "Closed",
-            months: "months",
-            or: "or",
+            allServices: "Все типы услуг",
+            allMakes: "Все марки",
+            btn_search: "Поиск",
+            map: "Карта",
+            serve_makes: "Мы обслуживаем эти марки машин",
+            serve_services: "Мы предоставляем эти типы услуг",
+            all_makes: "Вы обслуживаем все марки машин",
+            all_services: "Мы предоставляем любой тип услуг",
+            amountOfCarservices: "Количество типов услуг",
+            orderRating: "Сортировать по: рейтингу",
+            orderDistance: "Сортировать по: расстоянию",
+            insuranceWork: "Гарантия на работу",
+            insuranceSpareParts: "Гарантия на запчасти",
+            notSpecified: "Не определено",
+            openHours: "Часы работы",
+            mo_fri: "Понедельник - Пятница",
+            sa: "Суббота",
+            su: "Воскресенье",
+            employees: "Сотрудники",
+            insurance: "Страховка",
+            additionalServices: "Дополнительные услуги",
+            spareParts: "Запчасти",
+            payment: "Методы оплаты",
+            closed: "Закрыто",
+            months: "месяцы",
+            or: "или",
             nav: {
-              search: "Search"
+              search: "Поиск"
             }
           },
           footer: {
             faq: "FAQ",
-            updates: "Newest updates",
-            feedback: "Give feedback"
+            updates: "Последние обновления",
+            feedback: "Оставить отзыв"
           }
         },
 
@@ -1502,189 +1502,189 @@ const translations = {
         company: {
           myDashboard: {
             overview: {
-              rating: "Rating",
-              feedback: "Feedbacks",
-              openBids: "Open bids",
-              confirmedBids: "Confirmed bids",
-              sales: "Sales",
-              not_verified: "Not verified services",
-              subscription: "Subscription",
+              rating: "Рейтинг",
+              feedback: "Отзывы",
+              openBids: "Открытые предложения",
+              confirmedBids: "Подтвержденные предложения",
+              sales: "Продажи",
+              not_verified: "Не подтвержденные услуги",
+              subscription: "Подписка",
             },
             lineGraph: {
-              select_sales: "Sales",
-              select_bids: "Bids"
+              select_sales: "Продажи",
+              select_bids: "Предложения"
             },
             pieGraph: {
-              amount: "Amount of services",
-              rating: "Rating",
-              noServices: "No services"
+              amount: "Количество типов сервиса",
+              rating: "Рейтинг",
+              noServices: "Нет типов сервиса"
             },
             select_confirmed: {
-              priceASC: "Order by: Price ASC",
-              priceDESC: "Order by: Price DESC",
-              ratingASC: "Order by: Rating ASC",
-              ratingDESC: "Order by: Rating DESC",
-              dateASC: "Order by: Date ASC",
-              dateDESC: "Order by: Date DESC"
+              priceASC: "Сортировать: Цена по возрастанию",
+              priceDESC: "Сортировать: Цена по убыванию",
+              ratingASC: "Сортировать: Рейтинг по возрастанию",
+              ratingDESC: "Сортировать: Рейтинг по убыванию",
+              dateASC: "Сортировать: Дата по возрастанию",
+              dateDESC: "Сортировать: Дата по убыванию"
             },
             form: {
-              price: "Price",
-              btn_submit: "Submit",
-              btn_delete: "Delete",
-              lbl_available: "Available from",
-              lbl_desc: "Description",
-              lbl_rental_car: "Rental car",
-              lbl_starting_price: "Starting price",
-              select_available: "Available",
-              select_not_available: "Not available"
+              price: "Цена",
+              btn_submit: "Отправить",
+              btn_delete: "Удалить",
+              lbl_available: "Доступно с",
+              lbl_desc: "Описание",
+              lbl_rental_car: "Прокат машин",
+              lbl_starting_price: "Стартовая цена",
+              select_available: "Доступно",
+              select_not_available: "Не доступно"
             },
-            waiting_feedback: "Waiting for feedback...",
-            verify_btn: "Verify",
-            verified: "Verified",
-            no_open_bids: "You dont have any open bids.",
-            no_confirmed_bids: "You haven't done any services.",
+            waiting_feedback: "Подождите отзывов...",
+            verify_btn: "Проверяется",
+            verified: "Проверено",
+            no_open_bids: "У вас нет открытых ставок.",
+            no_confirmed_bids: "У вас нет выполненных заявок.",
             submit_modal: {
-              title: "Are you sure?",
-              text: "You won't be able to revert this!",
-              yes: "Yes",
-              cancel: "Cancel"
+              title: "Вы уверены?",
+              text: "Вы не сможете отменить это!",
+              yes: "Да",
+              cancel: "Отмена"
             },
             success_modal: {
-              title: "Congratulations!",
-              text: "You have successfully sent your proposal."
+              title: "Поздравляем!",
+              text: "Вы успешно отправили свое предложение."
             },
             delete_modal: {
-              title: "Deleted"
+              title: "Удалено"
             }
           },
           billing: {
-            title: "Billing",
-            order_id: "Order ID",
-            service: "Service",
-            customer: "Customer",
-            price_accepted: "Price accepted",
-            verified: "Verified",
-            price: "Price",
-            commission: "Commission"
+            title: "Счет",
+            order_id: "Номер заказа",
+            service: "Тип услуги",
+            customer: "Клиент",
+            price_accepted: "Цена подтверждена.",
+            verified: "Проверено",
+            price: "Цена",
+            commission: "Комиссия"
           },
           feedbacks: {
-            average: "Average",
-            total: "Total feedback",
-            mostRated: "Most rated services",
-            latest_title: "Latest reviews",
-            all: "All",
-            btn_hide: "Hide",
-            btn_seeMore: "See more",
-            service: "Service"
+            average: "Среднее значение",
+            total: "Общая обратная связь",
+            mostRated: "Самые популярные услуги",
+            latest_title: "Последние отзывы",
+            all: "Все",
+            btn_hide: "Скрыть",
+            btn_seeMore: "Увидеть больше",
+            service: "Услуга"
           },
           select_settings: {
-            account_settings: "Account settings",
-            personal_page_settings: "Customize your own personal page",
+            account_settings: "Настройки аккаунта",
+            personal_page_settings: "Настройте вашу личную страницу",
             account: {
-              companyName: "Company name",
-              businessID: "Business ID",
+              companyName: "Название компании",
+              businessID: "Бизнес ID",
               email: "E-mail",
-              phone: "Phone number",
-              password: "Password",
-              passwordAgain: "Please, type your password again",
-              logo: "Upload a logo (max size 3 MB)",
-              country: "Country",
-              city: "City",
-              street: "Street",
-              zip: "Postal code",
-              btn_update: "Update",
+              phone: "Номер телефона",
+              password: "Пароль",
+              passwordAgain: "Пожалуйста, повторите ваш пароль",
+              logo: "Загрузить логотип (максимальный размер 3 MB)",
+              country: "Страна",
+              city: "Город",
+              street: "Улица",
+              zip: "Индекс",
+              btn_update: "Обновить",
             },
             personal_page: {
-              num_of_employees: "Number of employees",
-              open: "Open",
-              description_title: "Description",
-              description_text: "Add description",
-              service_title: "Services and car makes",
-              service: "Service",
-              services: "Services",
-              select_all: "All",
-              btn_showMore: "Show more",
-              btn_hide: "Hide",
-              makes: "Makes",
-              additional_input: "e.g. We service in English",
-              add: "Add",
-              spare_part_input: "e.g. Original and quality spare parts",
-              payment_methods_input: "e.g. Credit card",
-              upload_image: "Upload an image (max. size 3 MB)",
-              image_description_input: "Add description",
-              btn_submit: "Submit",
-              btn_preview: "Preview",
-              serve_makes: "We serve these car makes",
-              serve_services: "We do these services",
-              all_makes: "We serve all car makes",
-              all_services: "We do all services",
-              insuranceWork: "Warranty for the work",
-              insuranceSpareParts: "Warranty for the spare parts",
-              openHours: "Open hours",
-              mo_fri: "Monday - Friday",
-              sa: "Saturday",
-              su: "Sunday",
-              employees: "Employees",
-              insurance: "Insurance",
-              additionalServices: "Additional services",
-              spareParts: "Spare parts",
-              payment: "Payment methods",
-              address: "Address",
-              months: "Months",
-              kms: "Kilometers",
-              allServices: "All services",
-              allMakes: "All makes",
-              closed: "Closed",
-              or: "or",
-              businessID: "Business ID",
+              num_of_employees: "Количество работников",
+              open: "Открыть",
+              description_title: "Описание",
+              description_text: "Добавить описание",
+              service_title: "Услуги и марки автомобилей",
+              service: "Услуга",
+              services: "Услуги",
+              select_all: "Все",
+              btn_showMore: "Показать больше",
+              btn_hide: "Скрыть",
+              makes: "Марки",
+              additional_input: "например: Мы обслуживаем на английском языке",
+              add: "Добавить",
+              spare_part_input: "например: Оригинальные и качественные запчасти",
+              payment_methods_input: "например: Кредитные карты",
+              upload_image: "Загрузить изображение (максимальный размер 3 MB)",
+              image_description_input: "Добавить описание",
+              btn_submit: "Отправить",
+              btn_preview: "Предварительный просмотр",
+              serve_makes: "Мы обслуживанием данные марки автомобилей",
+              serve_services: "Мы предоставляем данные услуги",
+              all_makes: "Мы обслуживаем все марки автомобилей",
+              all_services: "Мы предоставляем все услуги",
+              insuranceWork: "Гарантия на работу",
+              insuranceSpareParts: "Гарантия на запчасти",
+              openHours: "Часы работы",
+              mo_fri: "Понедельник - Пятница",
+              sa: "Суббота",
+              su: "Воскресенье",
+              employees: "Работники",
+              insurance: "Страховка",
+              additionalServices: "Дополнительные услуги",
+              spareParts: "Запчасти",
+              payment: "Методы оплаты",
+              address: "Адреса",
+              months: "Месяцы",
+              kms: "Километры",
+              allServices: "Все услуги",
+              allMakes: "Все марки машин",
+              closed: "Закрыто",
+              or: "или",
+              businessID: "Бизнес ID",
               opentimes_modal: {
-                title: "Are you sure?",
-                text: "You are closed every day. ",
-                continue_btn: "Continue",
-                cancel_btn: "Cancel"
+                title: "Вы уверены?",
+                text: "Вы закрыты каждый день. ",
+                continue_btn: "Продолжить",
+                cancel_btn: "Отмена"
               },
               warranty_modal: {
-                title: "Are you sure?",
-                text: "Your warranty is 0 kilometers and 0 months for work and spare parts.",
-                continue_btn: "Continue",
-                cancel_btn: "Cancel"
+                title: "Вы уверены?",
+                text: "Ваша гарантия 0 месяцев и 0 километров на работу и запчасти.",
+                continue_btn: "Продолжить",
+                cancel_btn: "Отмена"
               },
               additional_modal: {
-                title: "Are you sure?",
-                text: "You have not added any additional services.",
-                continue_btn: "Continue",
-                cancel_btn: "Cancel"
+                title: "Вы уверены?",
+                text: "Вы не добавили ни одной дополнительной услуги.",
+                continue_btn: "Продолжить",
+                cancel_btn: "Отмена"
               },
               spare_parts_modal: {
-                title: "Are you sure?",
-                text: "You have not added any description about your spare parts what you are using.",
-                continue_btn: "Continue",
-                cancel_btn: "Cancel"
+                title: "Вы уверены?",
+                text: "У вас нет никакого описания используемых запчастей.",
+                continue_btn: "Продолжить",
+                cancel_btn: "Отмена"
               },
               payment_modal: {
-                title: "Are you sure?",
-                text: "You have not added any payment methods.",
-                continue_btn: "Continue",
-                cancel_btn: "Cancel"
+                title: "Вы уверены?",
+                text: "Вы не указали методов оплаты.",
+                continue_btn: "Продолжить",
+                cancel_btn: "Отмена"
               },
               error_modal: {
-                text: "These fields are mandatory to be filled:",
-                employees: "Number of employees",
-                description: "Description",
-                services: "Services",
-                makes: "Makes"
+                text: "Эти поля обязательны для заполнения:",
+                employees: "Количество работников",
+                description: "Описание",
+                services: "Услуги",
+                makes: "Марки"
               }
             },
             nav: {
-              settings: "Settings",
-              account: "Account settings",
-              personal_page: "Personal page settings"
+              settings: "Настройки",
+              account: "Настройки аккаунта",
+              personal_page: "Персональные настройки страницы"
             },
           },
           footer: {
             faq: "FAQ",
-            updates: "Newest updates",
-            feedback: "Give feedback"
+            updates: "Последние обновления",
+            feedback: "Оставить отзыв"
           }
         },
       },
@@ -1695,18 +1695,18 @@ const translations = {
 
       months:
       [
-        { text: "January", value: 1 },
-        { text: "February", value: 2 },
-        { text: "March", value: 3 },
-        { text: "April", value: 4 },
-        { text: "May", value: 5 },
-        { text: "June", value: 6 },
-        { text: "July", value: 7 },
-        { text: "August", value: 8 },
-        { text: "September", value: 9 },
-        { text: "October", value: 10 },
-        { text: "November", value: 11 },
-        { text: "December", value: 12 },
+        { text: "Январь", value: 1 },
+        { text: "Февраль", value: 2 },
+        { text: "Март", value: 3 },
+        { text: "Апрель", value: 4 },
+        { text: "Май", value: 5 },
+        { text: "Июнь", value: 6 },
+        { text: "Июль", value: 7 },
+        { text: "Август", value: 8 },
+        { text: "Сентябрь", value: 9 },
+        { text: "Октябрь", value: 10 },
+        { text: "Ноябрь", value: 11 },
+        { text: "Декабрь", value: 12 },
       ],
 
       /*********************************************
@@ -1714,15 +1714,15 @@ const translations = {
       *********************************************/
 
       countries: [
-        { text: "Select a country *", value: '' },
-        { text: "Finland", value: 'fi' },
-        { text: "Lithuania", value: 'lt' },
-        { text: "Estonia", value: 'ee' },
-        { text: "Latvia", value: 'lv' }
+        { text: "Выберите страну *", value: '' },
+        { text: "Финляндия", value: 'fi' },
+        { text: "Литва", value: 'lt' },
+        { text: "Эстония", value: 'ee' },
+        { text: "Латвия", value: 'lv' }
       ],
 
       image_failed: {
-        text: "Upload failed! Your chosen image exceeds allowed image’s size. Please upload an image with a size up to 3 Mb."
+        text: "Загрузка не удалась! Выбранное изображение превышает допустимый размер. Загрузите изображение размером до 3 Мб."
       },
     },
 }
